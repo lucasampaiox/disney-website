@@ -27,3 +27,4 @@ Services/*.js
 .GlobalApi
 Services/*
 Services/
+Services/GlobalApi.js
