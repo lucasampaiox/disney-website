@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 Services/.GlobalApi.js
 Services/*.js
+.GlobalApi
+Services/*
+Services/
