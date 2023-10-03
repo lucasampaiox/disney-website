@@ -25,6 +25,6 @@ dist-ssr
 Services/.GlobalApi.js
 Services/*.js
 .GlobalApi
-Services/*
-Services/
-Services/GlobalApi.js
+*Services/*
+*Services/
+*Services/GlobalApi.js
